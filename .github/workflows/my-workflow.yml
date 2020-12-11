@@ -1,8 +1,8 @@
 name: "JS Actions"
 
 on:
-	pull_request:
-		types: [labled]
+    pull_request:
+       types: [labled]
 	
 jobs:
   action:
